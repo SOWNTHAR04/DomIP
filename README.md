@@ -40,9 +40,10 @@ Usage
 
 
 Example Output (Plain Text):
-    Domain WHOIS preview: Registrar: Example Corp | Creation Date: 2000-01-01 | ...
-    example.com    93.184.216.34
-    IP WHOIS: NetRange: 93.184.216.0 - 93.184.216.255 | Organization: Example Corp | ...
+      
+      Domain WHOIS preview: Registrar: Example Corp | Creation Date: 2000-01-01 | ...
+      example.com    93.184.216.34
+      IP WHOIS: NetRange: 93.184.216.0 - 93.184.216.255 | Organization: Example Corp | ...
 
 License
    This project is licensed under the MIT License.
