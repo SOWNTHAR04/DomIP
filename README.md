@@ -46,4 +46,5 @@ Example Output (Plain Text):
       IP WHOIS: NetRange: 93.184.216.0 - 93.184.216.255 | Organization: Example Corp | ...
 
 License
-   This project is licensed under the MIT License.
+   
+    This project is licensed under the MIT License.
